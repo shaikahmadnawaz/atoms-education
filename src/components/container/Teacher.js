@@ -1,7 +1,7 @@
 import React from "react";
 
 const Teacher = () => {
-  return <div>Teacher</div>;
+  return <div className="section">Teacher</div>;
 };
 
 export default Teacher;
